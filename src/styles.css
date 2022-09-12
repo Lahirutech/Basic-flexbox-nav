@@ -5,9 +5,12 @@
 
 header {
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
   align-items: center;
+  justify-content: space-between;
   background-color: #0088a9;
+}
+nav {
 }
 
 .logo {
